@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.rnnewver.app-mergeDebugResources-35:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/macintoshhd/.gradle/caches/transforms-3/93e807bfaada813f93f08b7e313e7468/transformed/appcompat-1.4.1/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
